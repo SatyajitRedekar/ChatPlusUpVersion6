@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:iconTint="@color/white">
+
+    <item
+        android:id="@+id/Logout"
+        android:icon="@drawable/baseline_mode_night_24"
+        android:title="theme"
+        android:iconTint="@color/white"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/menu_search"
+        android:icon="@drawable/baseline_search_24"
+        android:iconTint="@color/white"
+        android:title="search"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/setings"
+        android:icon="@drawable/baseline_menu_24"
+        android:iconTint="@color/white"
+        app:showAsAction="always"/>
+
+<!--    <item-->
+<!--        android:id="@+id/"-->
+<!--        android:title="Setings"/>-->
+
+<!--    <item-->
+<!--        android:id="@+id/logout"-->
+<!--        android:title="" />-->
+
+
+</menu>

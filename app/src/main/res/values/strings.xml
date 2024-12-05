@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ChatPlus</string>
+
+    <!--    pause page qoutes stored-->
+    <string name="quote_1">"Sit back and relax while \n    magic is happens !"</string>
+    <string name="quote_2">"Good things takes times !"</string>
+
+    <string-array name="examples">
+        <item>"Sit back and relax while \n    magic is happens !\n"</item>
+        <item>"Good things take times"</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

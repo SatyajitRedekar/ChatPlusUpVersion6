@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="accent">#C9FFFFFF</color>
+    <color name="accentdark">#7D7676</color>
+    <color name="colorPrimary">#FD4C4C</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="boxColor">#191818</color>
+    <color name="orange">#FF5722</color>
+    <color name="blue">#30F8E0</color>
+    <color name="fentBlue">#590EC6</color>
+    <color name="centerColor">#FD0071</color>
+    <color name="endColor">#FF0019</color>
+    <color name="titleColor">#0D8006</color>
+    <color name="fragment_color">#E1222225</color>
+    <color name="fab">#DB0B89</color>
+
+    <color name="chatbub">#010000</color>
+    <color name="sendbub">#E90882FF</color>
+</resources>

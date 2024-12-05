@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "404925791246",
+    "project_id": "chatplus-version-5",
+    "storage_bucket": "chatplus-version-5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404925791246:android:8d517a7bc3952a2735d05f",
+        "android_client_info": {
+          "package_name": "com.example.chatplus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGaPXm9E7BaTiEJnLFowcCq-6m_atXBAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
